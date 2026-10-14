@@ -1,1 +1,2 @@
 numbers = list(map(int, input("Please enter a list of space-separated string numbers: ").split()))
+print("Numbers:",numbers)
